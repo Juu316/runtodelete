@@ -1,8 +1,8 @@
 {
   "name": "runtodelete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"It will delete everything in your current directory\"",
-  "main": "runme.js",
+  "main": "./runme.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
