@@ -1,0 +1,19 @@
+{
+  "name": "runtodelete",
+  "version": "1.0.0",
+  "description": "\"It will delete everything in your current directory\"",
+  "main": "runme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juu316/runtodelete.git"
+  },
+  "author": "juu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juu316/runtodelete/issues"
+  },
+  "homepage": "https://github.com/Juu316/runtodelete#readme"
+}

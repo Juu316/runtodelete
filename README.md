@@ -1,0 +1,1 @@
+If you run "node runme.js" it will delete everything in your current directory, including the file itself :)
